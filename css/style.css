@@ -160,9 +160,24 @@ main {
   margin-top: 200px;
 }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 800;
+  line-height: 1.2;
+}
+
 h1 {
   font-size: 4em;
-  font-weight: 800;
+  margin-bottom: 0.5em;
+}
+
+h3 {
+  font-size: 1.2em;
+  margin-top: 2em;
   margin-bottom: 0.5em;
 }
 
