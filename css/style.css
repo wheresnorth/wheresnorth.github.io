@@ -207,6 +207,12 @@ ul {
   opacity: 0.8;
 }
 
+footer a {
+  margin-right: 20px;
+  color: rgba(255, 255, 255, 0.5);
+  font-size: 14px;
+}
+
 .orange {
   color: #ffc000;
 }
